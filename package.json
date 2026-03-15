@@ -1,0 +1,22 @@
+{
+  "name": "ms-playwright-101",
+  "version": "1.0.0",
+  "description": "MS Playwright 101 source code",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matixsc/ms-playwright-101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matixsc/ms-playwright-101/issues"
+  },
+  "homepage": "https://github.com/matixsc/ms-playwright-101#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
+  }
+}
