@@ -1,9 +1,14 @@
 {
   "name": "ms-playwright-101",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MS Playwright 101 source code",
   "main": "",
-  "scripts": {},
+  "scripts": {
+      "smoke": "npx playwright test --grep \"@smoke\" --workers=1",
+      "smoke:list": "npx playwright test --grep \"@smoke\" --list",
+      "demo": "npx playwright test --grep \"@tag22\" --workers=1",
+      "demo:list": "npx playwright test --grep \"@tag22\" --list"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/matixsc/ms-playwright-101.git"

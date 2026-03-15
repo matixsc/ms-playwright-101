@@ -23,3 +23,5 @@ _scripts/
 # Reports from allure
 /allure-report/
 /allure-results/
+
+custom-report.json
