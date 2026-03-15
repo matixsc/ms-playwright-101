@@ -1,0 +1,11 @@
+/* ID selector targets heading */
+#main-title {
+    color: red;
+    text-align: center;
+}
+/* ID selector for the first paragraph */
+#first-paragraph {
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+}

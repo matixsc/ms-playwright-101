@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+}
+p {
+    padding: 10px;
+    background-color: #E5E5E5;
+    width: 400px;
+}
+ul {
+    list-style-type: square;
+    margin-left: 1.5rem;
+    padding: 5px;
+}
+li {
+    margin: 5px 0;
+}

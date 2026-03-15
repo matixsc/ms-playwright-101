@@ -1,0 +1,14 @@
+/* Attribute selector for elements based on presence of an attribute */
+p[title]{
+    font-weight: bold;
+}
+/* Attribute selector for elements with attribute with exact value */
+input[type="text"] {
+    padding: 5px;
+    border: 1px solid #3498db;
+    border-radius: 4px;
+}
+/* Attribute selector affects only paragraphs with attribute align="center" */
+p[align="center"] {
+    color: #3498db;
+}
