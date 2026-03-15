@@ -1,0 +1,12 @@
+/* Child selector for direct <p> children of .wrapper */
+.wrapper > p { 
+    color: #3498db;
+    padding: 10px;
+    margin: 10px 0;
+    font-weight: bold;
+}
+/* Child selector for direct <h2> children of .wrapper */
+.wrapper > h2 { 
+    color: #2c3e50;
+    text-align: center;
+}

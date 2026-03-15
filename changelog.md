@@ -1,3 +1,11 @@
+# 1.0.1
+
+## Added
+
+_ Source code related to CSS selectors
+
+<br/>
+
 # 1.0.0
 
 ## Added

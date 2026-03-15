@@ -1,0 +1,15 @@
+/* Style for links when hovered */
+a:hover {
+    color: #e74c3c;
+    text-decoration: underline;
+}
+/* Style for the first paragraph */
+    p:first-of-type {
+    font-weight: bold;
+    color: #3498db;
+}
+/* Style for all <li> elements that are even (2nd, 4th, etc.) */
+    li:nth-child(even) {
+    background-color: #f0f0f0;
+    width: 300px;
+}

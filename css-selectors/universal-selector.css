@@ -1,0 +1,5 @@
+/* Universal selector applying a global style */
+* {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}

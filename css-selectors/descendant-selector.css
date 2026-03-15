@@ -1,0 +1,13 @@
+/* Descendant selector for paragraphs inside .container */
+.container p {
+    color: #2c3e50;
+    padding: 10px;
+    margin: 10px 0;
+    font-weight: bold;
+  }
+  
+  /* Descendant selector for <span> elements inside <p> inside .container */
+  .container p span {
+    color: #e74c3c;
+    font-style: italic;
+  }
